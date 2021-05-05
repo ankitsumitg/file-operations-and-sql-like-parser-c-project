@@ -1,7 +1,8 @@
 # file-operations-and-sql-like-parser-c-project
 File operations in c and implementing sql like query parser using csv files.
 - Simple query handler
-	1 Query format example: select * from student where exam1 gt 50
+
+	- Query format example: select * from student where exam1 gt 50
 	* Note1:For now only works with student structure and query whould in proper format with no extra spaces
 	* Note2:CAn only display single or total columns at a time based on query
 	* Note3:Before query execution load marks table and calculate the avg and cgpa
